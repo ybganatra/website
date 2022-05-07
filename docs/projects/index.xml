@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yash Ganatra on My New Hugo Site</title>
-    <link>https://ybganatra.github.io/website/</link>
-    <description>Recent content in Yash Ganatra on My New Hugo Site</description>
+    <title>Projects on My New Hugo Site</title>
+    <link>https://ybganatra.github.io/website/projects/</link>
+    <description>Recent content in Projects on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ybganatra.github.io/website/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About me</title>
-      <link>https://ybganatra.github.io/website/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ybganatra.github.io/website/about/</guid>
-      <description>Hi! I am Yash Ganatra, a Master of Engineering in Financial Engineering student at Cornell. I was a quantitative risk analyst at Nomura specializing in risk on financing trades from July 2019 to June 2021. I did my undergraduate from BITS Pilani Goa, India, where I did a double major in Mathematics (M.Sc.) and Mechanical Engineering (B.E.). I&amp;rsquo;m curious about the applications of mathematical modelling in quantitative research.
-This is where I plan to write about my journey through the world of quantitative finance, and about my research and projects at Cornell.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://ybganatra.github.io/website/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bond Portfolio Optimization</title>
       <link>https://ybganatra.github.io/website/projects/p5/</link>
@@ -52,15 +42,6 @@ A detailed report on this project can be found here.</description>
       <guid>https://ybganatra.github.io/website/projects/p3/</guid>
       <description>This project was our entry for the International Association of Quantitative Finance (IAQF&amp;rsquo;s) annual academic competition. The goal of the research is to predict the market regimes (Bull, Bear or Static) using mathematical and machine learning techniques.
 We used the Hidden Markov Model as our base engine to identify the hidden states of historical markets based on the value of the Russell 3000 index, and used other macroeconomical indicators like the VIX index to capture signals.</description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>https://ybganatra.github.io/website/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ybganatra.github.io/website/resume/</guid>
-      <description>Find my CV here.</description>
     </item>
     
     <item>
