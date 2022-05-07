@@ -1,0 +1,6 @@
+[submodule "personal-web"]
+	path = personal-web
+	url = https://github.com/bjacquemet/personal-web
+[submodule "themes/dimension"]
+	path = themes/dimension
+	url = https://github.com/your-identity/hugo-theme-dimension.git
